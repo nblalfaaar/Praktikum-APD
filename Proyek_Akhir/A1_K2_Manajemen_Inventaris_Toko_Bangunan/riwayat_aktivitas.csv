@@ -1,0 +1,24 @@
+waktu,aktivitas
+2024-11-21 18:24:29,Admin baru 'abcde4' ditambahkan oleh 'admin'.
+2024-11-21 20:08:28,"Barang baru 'Keramik' ditambahkan oleh nabila81 dengan stok 34 dan harga Rp55,000"
+2024-11-21 20:14:16,"Barang 'Keramik' diperbarui oleh nabila81 dari stok 34 ke 33 dan harga Rp55,000 ke Rp55,000"
+2024-11-21 20:23:40,Barang 'Keramik' dihapus oleh nabila81 dengan stok 33 dihapus dari inventaris.
+2024-11-21 20:39:12,"Admin 'admin' menambahkan barang 'Keramik' ke inventory user dengan stok 33 dan harga Rp55,000."
+2024-11-21 20:46:13,Barang 'Keramik' dihapus oleh admin dari inventory pengguna.
+2024-11-21 20:50:13,"Barang 'Semen 40kg' diperbarui oleh admin dari stok 152 ke 151 dan harga Rp56,000 ke Rp56,000"
+2024-11-21 20:53:47,Admin baru 'admin2' ditambahkan oleh 'admin'.
+2024-11-21 21:03:59,Akun 'nabila' duhapus oleh admin
+2024-11-21 21:48:31,Barang baru 'a' ditambahkan oleh nabila81 dengan stok 2 dan harga Rp3
+2024-11-21 21:48:54,Barang 'a' diperbarui oleh nabila81 dari stok 2 ke -1 dan harga Rp3 ke Rp-10
+2024-11-22 06:45:47,Admin 'admin' menambahkan barang 'd' ke inventory user dengan stok 3 dan harga Rp4.
+2024-11-22 17:55:11,Barang baru 'a' ditambahkan oleh nabila dengan stok 2 dan harga Rp3
+2024-11-22 17:55:23,Barang 'a' diperbarui oleh nabila dari stok 2 ke 1 dan harga Rp3 ke Rp3
+2024-11-22 17:56:18,Barang baru 'e' ditambahkan oleh nabila dengan stok 3 dan harga Rp4
+2024-11-22 17:56:56,Barang 'a' diperbarui oleh nabila dari stok 1 ke 3 dan harga Rp3 ke Rp4
+2024-11-22 17:57:13,Barang 'a' dihapus oleh nabila dengan stok 3 dihapus dari inventaris.
+2024-11-22 17:58:21,Admin 'admin' menambahkan barang 'r' ke inventory user dengan stok 4 dan harga Rp5.
+2024-11-22 17:58:37,Barang 'e' diperbarui oleh admin dari stok 3 ke 2 dan harga Rp4 ke Rp4
+2024-11-22 17:59:12,Admin baru 'admin2' ditambahkan oleh 'admin'.
+2024-11-22 18:12:59,Admin 'admin' menambahkan barang 'w' ke inventory utama dengan stok 2 dan harga Rp3.
+2024-11-22 18:13:29,Barang 'w' dengan stok 2 dihapus dari inventaris.
+2024-11-22 18:16:05,Akun 'opw zzz' dihapus oleh admin
